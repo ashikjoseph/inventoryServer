@@ -1,0 +1,14 @@
+{
+  "inventorylist": [
+    {
+      "inventoryTitle": "Title 1",
+      "inventoryPrice": "1000",
+      "inventoryDescription": "aaa",
+      "inventoryCategory": "a",
+      "inventoryImage": "https://t3.ftcdn.net/jpg/01/81/20/94/360_F_181209420_P2Pa9vacolr2uIOwSJdCq4w5ydtPCAsS.jpg",
+      "inventoryRating": "4",
+      "inventoryRatingcount": "7",
+      "id": 1
+    }
+  ]
+}
